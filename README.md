@@ -1,1 +1,2 @@
 # mypublicrepo
+a conflicting change
